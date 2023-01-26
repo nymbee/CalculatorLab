@@ -22,7 +22,7 @@ def simple_calculate(operation, num1, num2):
     elif operation == '*':
         # TODO: finish this statement
         # - should return the result of multiplying num1 by num2
-        preturn num1 * num2
+        return num1 * num2
 
     elif operation == '/':
         # TODO: finish this statement
